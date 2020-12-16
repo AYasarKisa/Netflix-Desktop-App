@@ -1,4 +1,5 @@
 # Netflix-Desktop-App
 
-Bu projeye , Netflix uygulamasının bir benzerini tasarlamak diyebiliriz . Amacı ise nesne tabanlı programlama dillerinde bir veritabani ile baglanti kurmak, bu veritabanından veri eklemek ya da almak ve bu verileri kullanmaya 
-dayalı bir projedir.
+Java dili yardımıyla veritabanı kullanımı öğrenilmek amacı ile yazılmış bir masaüstü projesidir.
+Uygulama mantık olarak netflix ile aynı mnatıkta bu yüzden tasarım olarak netflixe benzetilmiştir.
+>>>>>>> d0b410b5711af1ff0b6043303f3fbf0433b53d18
